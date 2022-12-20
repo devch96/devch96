@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi%20There&desc=I'm%20Hoon&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
 <div align="center">
-<p align="center">
-  ## Skill :four_leaf_clover:
-  </p>
+## Skill :four_leaf_clover:
     <br>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -36,9 +35,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact"/>
   
  
-  ## Problem Solving :muscle: 
+## Problem Solving :muscle: 
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chjung96)](https://solved.ac/chjung96)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chjung96)](https://solved.ac/chjung96)<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevch96&count_bg=%236FC82A&title_bg=%23555555&icon=fluentd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   ---
