@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC#%EC%99%84%EC%84%B1 -->
 
 <div align="center">
-  ﻿![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devch96&show_icons=true&theme=radical)
+  [Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devch96&show_icons=true&theme=radical)
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact"/>
   
   ### HOON 🐥
