@@ -25,6 +25,7 @@ Here are some ideas to get you started:
     💡used as the main
 </p>
 
+   <!--기술스택-->
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -41,13 +42,14 @@ Here are some ideas to get you started:
 </p><br>
 
 <br>
-  
+
   ![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devch96&show_icons=true&theme=radical)
 
   
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact"/>
   
+   <!--알고리즘 -->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chjung96)](https://solved.ac/chjung96)<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevch96&count_bg=%236FC82A&title_bg=%23555555&icon=fluentd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
