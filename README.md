@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    ## ⚒️Tech Stack⚒️<br>
     💡used as the main
 </p>
 
@@ -49,8 +49,6 @@ Here are some ideas to get you started:
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact"/>
   
- <!--알고리즘 -->
- <a href="https://github.com/devch96/cote_python" > 
  
  ## Problem Solving :muscle: 
  </a>
