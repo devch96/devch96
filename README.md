@@ -20,8 +20,7 @@ Here are some ideas to get you started:
   
   <br>
 
-    ## ⚒️Tech Stack⚒️<br>
-    💡used as the main
+    ## ⚒️Tech Stack⚒️
 
    <!--기술스택-->
 <p align="center" display="inline-block">
