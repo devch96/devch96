@@ -47,9 +47,13 @@ Here are some ideas to get you started:
 
   
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact"/>
   
-   <!--알고리즘 -->
+ <!--알고리즘 -->
+ <a href="https://github.com/devch96/cote_python" > 
+ 
+ ## Problem Solving :muscle: 
+ </a>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chjung96)](https://solved.ac/chjung96)<br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevch96&count_bg=%236FC82A&title_bg=%23555555&icon=fluentd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
