@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 
 <br>
   
-![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devch96&show_icons=true&theme=radical)
+
   
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact"/>
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact"/>
+  ![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devch96&show_icons=true&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevch96&count_bg=%236FC82A&title_bg=%23555555&icon=fluentd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   ---
