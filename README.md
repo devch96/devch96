@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&hide=jupyter%20notebook"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact"/>
   
   ### HOON 🐥
   ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&langs_count=10&layout=compact&theme=dark&)]﻿
