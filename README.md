@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&hide=jupyter%20notebook"/>
   
   ### HOON 🐥
-  ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)﻿
+  ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&langs_count=10&layout=compact&theme=dark&)]﻿
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdevch96&count_bg=%236FC82A&title_bg=%23555555&icon=fluentd.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   ---
