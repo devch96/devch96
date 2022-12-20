@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi%20There&desc=I'm%20Hoon&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
 
 <div align="center">
-## Skill :four_leaf_clover:
+<p align="center">
+    <Strong>⚒️Tech Stack⚒️</Strong><br>
+</p>
     <br>
     <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -34,8 +36,9 @@ Here are some ideas to get you started:
   ![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=devch96&show_icons=true&theme=radical)
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch96&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact"/>
   
- 
-## Problem Solving :muscle: 
+ <p align="center">
+    <Strong>💪Problem Solving💪 </Strong><br>
+</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chjung96)](https://solved.ac/chjung96)<br/>
 
